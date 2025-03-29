@@ -17,7 +17,7 @@ At DevShift Technologies, we strive to make software development more accessible
 
 ## Contact Us
 For inquiries, collaborations, or more information, reach out to us at:
-- **Website:** [devshift.tech]
+- **Website:** devshift.tech
 - **Email:** [alexmum@devshift.tech]
 
 ---
